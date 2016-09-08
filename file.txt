@@ -1,1 +1,3 @@
 Here is a new file.
+
+Changed the file in branch1.
